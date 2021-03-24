@@ -1,0 +1,79 @@
+body {
+    background-color: #fabf97;
+    color: #0f0500;
+    font-family: Montserrat, sans-serif;
+    font-size: 16px;
+}
+header {
+    background-color: #ad281c6c;
+    color: #0f0500;
+    border: 10px solid;
+    border-color:#0e05012d;
+    margin: 0 auto;
+    width: 80%;
+
+}
+footer {
+    background-color: #ad281cb4;
+}
+h1 {
+    font-family: Chango, sans-serif;
+    font-size: 42px;
+
+}
+a {
+color:#faecad;
+font-family: Chango, sans-serif;
+text-decoration: none;
+
+}
+img {
+    border-radius: 25px;
+
+}
+img.pasfoto {
+	border: 1px solid #999;
+	background-color: #fcfcfc;
+	padding: 4px;
+
+}
+
+.box-1 {
+    background-color: #ad281c6c;
+    color: #0f0500;
+    border: 10px solid; 
+    border-color: #420804;
+    border-radius: 25px;
+    padding: 20px 30px;
+   
+    
+}
+.box-2 {
+    background-color:#fac7a5;
+    color: #420804;
+    border: 5px dotted #420804;
+    border-radius: 25px;
+    padding:20px 30px;
+    margin: 30px 40px;
+    
+}
+.box-3 {
+    background-color: #ad281c6c;
+    color: #0f0500;
+    border: 10px solid; 
+    border-color: #420804;
+    border-radius: 25px;
+    padding: 20px 30px;
+    margin: 30px 40px;
+}
+.navbar {
+    background-color: #420804;
+    border-radius: 15px;
+    padding: 15px;
+    margin:15px;
+}
+.navbar li {
+    display: inline;
+    padding: 20px;
+}
+
